@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667941704 source:f:\ryan\agoritmos e lógica de programação\pagamento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

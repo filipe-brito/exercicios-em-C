@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667935888 source:f:\ryan\agoritmos e lógica de programação\idades\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
